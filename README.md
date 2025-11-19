@@ -1,1 +1,2 @@
-Exercici de Patrons de disseny II: Fàbrica de comandes + Singleton
+##Exercici 
+Patrons de disseny II: Fàbrica de comandes + Singleton
